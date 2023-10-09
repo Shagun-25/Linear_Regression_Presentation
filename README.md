@@ -7,15 +7,15 @@
 Welcome to the Linear Regression Presentation! In this presentation, we will delve into the fascinating world of linear regression, a fundamental statistical technique with wide-ranging applications.
 
 ## Table of Contents
-1. [Understanding Linear Regression] (#understanding-linear-regression)
-2. [Core Concepts of Linear Regression] (#core-concepts-of-linear-regression)
-3. Linear Regression Applications
-4. Applications of Linear Regression
-5. Assumptions and Limitations in Linear Regression
-6. Case Study: Failing Assumptions
-7. Model Diagnosis and Selection Steps
-8. Correlation does not imply causation
-9. Analogy of Linear Regression with Neural Network
+1. [Understanding Linear Regression](#understanding-linear-regression)
+2. [Core Concepts of Linear Regression](#core-concepts-of-linear-regression)
+3. [Linear Regression Applications](#linear-regression-applications)
+4. [Applications of Linear Regression](#applications-of-linear-regression)
+5. [Assumptions and Limitations in Linear Regression](#assumptions-and-limitations-in-linear-regression)
+6. [Case Study: Failing Assumptions](#case-study-failing-assumptions)
+7. [Model Diagnosis and Selection Steps](#model-diagnosis-and-selection-steps)
+8. [Correlation does not imply causation](#correlation-does-not-imply-causation)
+9. [Analogy of Linear Regression with Neural Network](#analogy-of-linear-regression-with-neural-network)
 
 ### Understanding Linear Regression
 
