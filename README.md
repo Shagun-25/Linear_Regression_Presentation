@@ -35,7 +35,7 @@ Welcome to the Linear Regression Presentation! In this presentation, we will del
 * Regression Line: The line that best fits the data points, representing the relationship between X and Y.
 * Residuals: The differences between observed and predicted values.
 
-### Linear Regression Applications
+### Applications of Linear Regression
 
 ![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/f49d93ae-8d9a-41da-b887-820d5935724f)
 
@@ -47,14 +47,16 @@ Welcome to the Linear Regression Presentation! In this presentation, we will del
 * Linear regression is a powerful tool for making predictions based on historical data. It provides a mathematical model that can be used to estimate future values of the dependent variable.
 * Example: Predicting future housing prices based on features like square footage, number of bedrooms, and location.
 
-### Assumptions in Linear Regression
+### Assumptions and Limitations in Linear Regression
+
+#### Assumptions
 
 1. Linearity: The relationship between the independent and dependent variables is linear.
 2. Independence: Observations in the dataset are independent of each other.
 3. Homoscedasticity: The residuals (errors) have constant variance at every level of the independent variable(s).
 4. Normality: The residuals of the model are normally distributed.
 
-### Limitations of Linear Regression
+#### Limitations
 
 1. All assumptions are limitations of linear regression.
 2. May oversimplify real-world complex relationships.
