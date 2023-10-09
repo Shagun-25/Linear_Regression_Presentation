@@ -100,3 +100,8 @@ Neural Network is just a non-linear regression.
 
 ## Conclusion
 Thank you for exploring the world of linear regression with us! We hope this presentation provided valuable insights into this foundational statistical technique and its applications. Feel free to reach out for any further questions or discussions.
+
+## References
+1. https://en.m.wikipedia.org/wiki/File:UK_Income_by_Age_and_Gender.png
+2. https://www.varsitytutors.com/common_core_high_school__statistics_and_probability-help/correlation-vs-causation-ccss-math-content-hss-id-c-9
+3. https://joshuagoings.com/2020/05/05/neural-network/
