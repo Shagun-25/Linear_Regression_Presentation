@@ -86,11 +86,13 @@ While correlation measures the strength and direction of a linear relationship b
 
 ### Analogy of Linear Regression with Neural Network
 
+While linear regression is a simple and interpretable model, a neural network's strength lies in its ability to learn complex relationships in data. It accomplishes this through multiple layers, non-linear activation functions, and optimization techniques. Linear regression can be seen as a special case of a neural network, which serves as a useful foundation for understanding more sophisticated machine learning models.
+
 ![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/03d8327b-4523-4fdc-8ade-0dbe82f04d06)
+
+Neural Network is just a non-linear regression.
 ![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/b7e4c0aa-86a5-43cf-8dbc-4866808ddef4)
 ![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/28a8c715-a325-498d-be8d-d0fe24d02743)
-
-while linear regression is a simple and interpretable model, a neural network's strength lies in its ability to learn complex relationships in data. It accomplishes this through multiple layers, non-linear activation functions, and optimization techniques. Linear regression can be seen as a special case of a neural network, which serves as a useful foundation for understanding more sophisticated machine learning models.
 
 ## Collaborators:
 * Shagun Kala: www.github.com/Shagun-25
