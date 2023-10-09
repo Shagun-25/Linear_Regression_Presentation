@@ -94,8 +94,8 @@ While correlation measures the strength and direction of a linear relationship b
 while linear regression is a simple and interpretable model, a neural network's strength lies in its ability to learn complex relationships in data. It accomplishes this through multiple layers, non-linear activation functions, and optimization techniques. Linear regression can be seen as a special case of a neural network, which serves as a useful foundation for understanding more sophisticated machine learning models.
 
 ## Collaborators:
-Shagun Kala: www.github.com/Shagun-25
-Krit Poshakrishna: www.github.com/Kritpofrankss
+* Shagun Kala: www.github.com/Shagun-25
+* Krit Poshakrishna: www.github.com/Kritpofrankss
 
 ## Conclusion
 Thank you for exploring the world of linear regression with us! We hope this presentation provided valuable insights into this foundational statistical technique and its applications. Feel free to reach out for any further questions or discussions.
