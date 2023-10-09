@@ -1,16 +1,25 @@
 # Linear Regression Presentation
 
 ## Introduction
+
+![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/cb83c857-75e9-455e-8b83-39841c9c7eaf)
+
 Welcome to the Linear Regression Presentation! In this presentation, we will delve into the fascinating world of linear regression, a fundamental statistical technique with wide-ranging applications.
 
 ## Table of Contents
-1. Concepts about Linear Regression
-2. Assumptions in Linear Regression
-3. Applications of Linear Regression
-4. Correlation vs Causation
-5. Analogy of Linear Regression with Neural Network
+1. Understanding Linear Regression
+2. Core Concepts of Linear Regression
+3. Linear Regression Applications
+4. Applications of Linear Regression
+5. Assumptions and Limitations in Linear Regression
+6. Case Study: Failing Assumptions
+7. Model Diagnosis and Selection Steps
+8. Correlation does not imply causation
+9. Analogy of Linear Regression with Neural Network
 
 ### Understanding Linear Regression
+
+![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/13231537-112d-480e-b410-60ffa188f0e9)
 
 * Linear regression is a statistical method used to model the relationship between a dependent variable (Y) and one or more independent variables (X).
 * It aims to find the best-fitting line (or hyperplane in multiple dimensions) that minimizes the sum of squared differences between observed and predicted values.
@@ -18,12 +27,17 @@ Welcome to the Linear Regression Presentation! In this presentation, we will del
 
 ### Core Concepts of Linear Regression
 
+![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/9532f285-bfc9-4b85-940e-a64f43ad4383)
+![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/af4d646b-1525-46b6-8cab-e5d8ffc0eebb)
+
 * Dependent Variable (Y): The variable we are trying to predict or explain.
 * Independent Variable(s) (X): The variable(s) used to make predictions.
 * Regression Line: The line that best fits the data points, representing the relationship between X and Y.
 * Residuals: The differences between observed and predicted values.
 
 ### Linear Regression Applications
+
+![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/f49d93ae-8d9a-41da-b887-820d5935724f)
 
 1. Impact Assessment (Hypothesis Testing)
 * Helps determine if there's a meaningful connection between the independent and dependent variables.
@@ -51,6 +65,8 @@ Welcome to the Linear Regression Presentation! In this presentation, we will del
 
 #### Predicting Income with Age
 
+![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/d71d60df-d9f3-4b01-9d05-9cc2b2e59965)
+
 * Linearity Assumption: Relationship between age and income isn't always linear. 
 * Independence of Observations: Independence may fail with repeated observations from the same individual. 
 * Homoscedasticity: Income variability might not be consistent across ages. 
@@ -59,17 +75,25 @@ Welcome to the Linear Regression Presentation! In this presentation, we will del
 
 ### Model Diagnosis and Selection Steps
 
+![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/3092b2d9-749d-4c3f-ab68-573f944e0edf)
+
 ### Correlation does not imply causation
+
+![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/01e7be96-fecd-4726-9bb0-875983ed95f8)
+
+While correlation measures the strength and direction of a linear relationship between two variables, causation determines whether changes in one variable are responsible for changes in another.
 
 ### Analogy of Linear Regression with Neural Network
 
-
+![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/03d8327b-4523-4fdc-8ade-0dbe82f04d06)
+![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/b7e4c0aa-86a5-43cf-8dbc-4866808ddef4)
+![image](https://github.com/Shagun-25/Linear_Regression_Presentation/assets/65088716/28a8c715-a325-498d-be8d-d0fe24d02743)
 
 while linear regression is a simple and interpretable model, a neural network's strength lies in its ability to learn complex relationships in data. It accomplishes this through multiple layers, non-linear activation functions, and optimization techniques. Linear regression can be seen as a special case of a neural network, which serves as a useful foundation for understanding more sophisticated machine learning models.
 
+## Collaborators:
+Shagun Kala: www.github.com/Shagun-25
+Krit Poshakrishna: www.github.com/Kritpofrankss
 
-
-
-
-
-
+## Conclusion
+Thank you for exploring the world of linear regression with us! We hope this presentation provided valuable insights into this foundational statistical technique and its applications. Feel free to reach out for any further questions or discussions.
